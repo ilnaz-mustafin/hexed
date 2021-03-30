@@ -1,0 +1,18 @@
+*.d
+*.o
+/build_details.txt
+
+# Shared objects
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+/bin
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
